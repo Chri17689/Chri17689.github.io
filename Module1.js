@@ -1,1 +1,22 @@
-l
+<html>
+  <head>
+    <link rel='stylesheet' type='text/css' href='style/mod1.css'>
+    <link rel="shortcut icon" type="image/png" href="images/eddies.png"/>
+    <title>Module 1</title>
+  </head>
+  <body>
+    <img src='images/photo.jpg' width='200px'>
+    <h1>Printing in Python</h1>
+    <p>
+      I have been practicing printing in python. I have learned that python 2 and python 3
+      differ when it comes to printing. In python 2 you would, for example, print 'Hello',
+      whereas in python 3 you would print('Hello').
+      <a href='code/module1.py' target='_blank' >Here</a> is my practice script.
+    </p>
+    <video width="407" height="213" controls>
+      <source src="m4v/py.m4v" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <script src='js/mod1.js'></script>
+  </body>
+</html>
