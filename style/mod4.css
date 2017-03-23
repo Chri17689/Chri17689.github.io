@@ -1,1 +1,15 @@
-//
+pre {
+  background-color: yellow;
+  border-style:inset;
+}
+p {
+  background-color: yellow;
+  border-style:inset;
+}
+body {
+  background-color: yellow;
+  border-style:inset;
+}
+Video {
+  display:block:
+}
